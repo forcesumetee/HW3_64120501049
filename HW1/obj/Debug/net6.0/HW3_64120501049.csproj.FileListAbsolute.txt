@@ -1,0 +1,5 @@
+C:\Users\Force\Desktop\HW3_64120501049\HW1\obj\Debug\net6.0\HW3_64120501049.csproj.AssemblyReference.cache
+C:\Users\Force\Desktop\HW3_64120501049\HW1\obj\Debug\net6.0\HW3_64120501049.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Force\Desktop\HW3_64120501049\HW1\obj\Debug\net6.0\HW3_64120501049.AssemblyInfoInputs.cache
+C:\Users\Force\Desktop\HW3_64120501049\HW1\obj\Debug\net6.0\HW3_64120501049.AssemblyInfo.cs
+C:\Users\Force\Desktop\HW3_64120501049\HW1\obj\Debug\net6.0\HW3_64120501049.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+/Users/aditep/Desktop/HW302/bin/Debug/net6.0/HW302
+/Users/aditep/Desktop/HW302/bin/Debug/net6.0/HW302.deps.json
+/Users/aditep/Desktop/HW302/bin/Debug/net6.0/HW302.runtimeconfig.json
+/Users/aditep/Desktop/HW302/bin/Debug/net6.0/HW302.dll
+/Users/aditep/Desktop/HW302/bin/Debug/net6.0/HW302.pdb
+/Users/aditep/Desktop/HW302/obj/Debug/net6.0/HW302.csproj.AssemblyReference.cache
+/Users/aditep/Desktop/HW302/obj/Debug/net6.0/HW302.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aditep/Desktop/HW302/obj/Debug/net6.0/HW302.AssemblyInfoInputs.cache
+/Users/aditep/Desktop/HW302/obj/Debug/net6.0/HW302.AssemblyInfo.cs
+/Users/aditep/Desktop/HW302/obj/Debug/net6.0/HW302.csproj.CoreCompileInputs.cache
+/Users/aditep/Desktop/HW302/obj/Debug/net6.0/HW302.dll
+/Users/aditep/Desktop/HW302/obj/Debug/net6.0/refint/HW302.dll
+/Users/aditep/Desktop/HW302/obj/Debug/net6.0/HW302.pdb
+/Users/aditep/Desktop/HW302/obj/Debug/net6.0/HW302.genruntimeconfig.cache
+/Users/aditep/Desktop/HW302/obj/Debug/net6.0/ref/HW302.dll
